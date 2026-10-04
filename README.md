@@ -54,6 +54,11 @@ base: India — open to freelance & remote
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krma111&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="langs"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krma111/krma111/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/krma111/krma111/output/github-snake.svg" alt="Snake eating my contributions" width="100%"/>
+</picture>
+
 </div>
 
 ## Service laws
