@@ -54,8 +54,6 @@ base: India — open to freelance & remote
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krma111&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="langs"/>
 
-[![Contribution chart](https://ghchart.rshah.org/krma111)](https://github.com/krma111)
-
 </div>
 
 ## Service laws
