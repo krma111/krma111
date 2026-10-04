@@ -1,20 +1,12 @@
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=1F7A8C&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+BADAL+DUBEY+%F0%9F%91%8B;AI-learner+%26+vibe+coder;I+ship+live+websites+for+real+businesses)](https://github.com/krma111)
-
 
 **Customer service, sales & operations — honest, detailed work with dependable team support.**
 
-
-![Profile views](https://visitcount.itsvg.in/api?id=krma111&label=Profile%20views&color=1&icon=5&pretty=true)
-
-
 </div>
 
-
 ## About me
-
 
 - AI learner & vibe coder — I turn real business needs into **live Next.js websites**
 - Background: customer service, sales & operations — **Kudu** (Shift Manager, Dammam) · **PVR Cinemas** · **HPCL** · freelance digital visibility
@@ -22,9 +14,7 @@
 - EN · HI · MR · BH · AR — multicultural floors feel like home
 - Based in India · open to freelance & remote work
 
-
 ## Live builds
-
 
 | Website | What it does | Stack |
 |---|---|---|
@@ -35,9 +25,7 @@
 | [Jai Jagannath Contractor](https://jai-jagan-nath-contrector.vercel.app) | Contractor personal brand: story-driven site, site-visit booking, social media management | Next.js · WhatsApp |
 | [Vastraa Royal](https://vastraa-royal.vercel.app) | Ethnic fashion boutique website | Next.js · Vercel |
 
-
 ## Stack
-
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -48,14 +36,24 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
 
-
 ## GitHub stats
-
 
 ![BADAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=krma111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krma111&layout=compact&theme=tokyonight&hide_border=true)
 
+[![Streak](https://streak-stats.demolab.com?user=krma111&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/krma111)
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krma111&theme=tokyo-night&hide_border=true&area=true)](https://github.com/krma111)
+[![Contribution chart](https://ghchart.rshah.org/krma111)](https://github.com/krma111)
+
+## Service laws
+
+1. **Greet fast, listen fully, solve on the spot** — then record it cleanly.
+2. **Process accurately, upsell honestly** — keep the queue moving and the cash tally exact.
+3. **Inventory, safety and paperwork done daily** — no backlog, no surprises.
+
+## Contact
+
+- Email: [CDUBEY159@GMAIL.COM](mailto:CDUBEY159@GMAIL.COM)
+- WhatsApp: [+91 9118876154](https://wa.me/919118876154)
+- Based in India · EN / HI / MR / BH / AR
