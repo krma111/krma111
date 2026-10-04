@@ -6,6 +6,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:CDUBEY159@GMAIL.COM) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919118876154) ![India](https://img.shields.io/badge/India-1F7A8C?logo=googlemaps&logoColor=white) ![Open to freelance](https://img.shields.io/badge/Open_to-freelance-brightgreen)
 
+[![Ping me](https://readme-typing-svg.demolab.com?font=Jakarta&weight=600&size=19&duration=2200&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&height=50&lines=Have+a+business%3F+Let%27s+make+it+visible;WhatsApp+me+anytime;Open+to+freelance+%26+remote)](https://wa.me/919118876154)
+
 </div>
 
 ## About me
