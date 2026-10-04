@@ -24,22 +24,24 @@ base: India — open to freelance & remote
 
 ## Live builds
 
-| Website | What it does | Link |
-|---|---|---|
-| **Mahalaxmi Beauty Parlour** | Salon lead-gen: services, gallery, local SEO, free-callback magnet, one-tap WhatsApp booking | [Live](https://mahalaxmi.beauty) |
-| **Suria Integriti** | Malaysian cleaning company: quote builder, before/after flow, WhatsApp enquiry routing | [Live](https://suria-pink.vercel.app) |
-| **PromptVault AI** | Prompt-pack library for vibe coders — fast discovery & reuse | [Live](https://promptvault-ai-rho.vercel.app) |
-| **SBMC** | Social branding for small businesses: makeovers, Google Business fixes, WhatsApp setups, landing pages | [Live](https://sbmc-one.vercel.app) |
-| **Jai Jagannath Contractor** | Contractor personal brand: story-driven site, site-visit booking, social media management | [Live](https://jai-jagan-nath-contrector.vercel.app) |
-| **Vastraa Royal** | Ethnic fashion boutique website | [Live](https://vastraa-royal.vercel.app) |
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| 💅 **[Mahalaxmi Beauty Parlour](https://mahalaxmi.beauty)** | Salon lead-gen: services, gallery, local SEO, free-callback magnet, one-tap WhatsApp booking | `Next.js` `WhatsApp` | [![Live](https://img.shields.io/badge/LIVE-online-22c55e?style=flat-square)](https://mahalaxmi.beauty) |
+| 🧹 **[Suria Integriti](https://suria-pink.vercel.app)** | Malaysian cleaning company: quote builder, before/after flow, WhatsApp enquiry routing | `Next.js` `Vercel` | [![Live](https://img.shields.io/badge/LIVE-online-22c55e?style=flat-square)](https://suria-pink.vercel.app) |
+| 🤖 **[PromptVault AI](https://promptvault-ai-rho.vercel.app)** | Prompt-pack library for vibe coders — fast discovery & reuse | `Next.js` `Vercel` | [![Live](https://img.shields.io/badge/LIVE-online-22c55e?style=flat-square)](https://promptvault-ai-rho.vercel.app) |
+| 📣 **[SBMC](https://sbmc-one.vercel.app)** | Social branding for small businesses: makeovers, Google Business fixes, WhatsApp setups, landing pages | `Next.js` `WhatsApp` | [![Live](https://img.shields.io/badge/LIVE-online-22c55e?style=flat-square)](https://sbmc-one.vercel.app) |
+| 🏗️ **[Jai Jagannath Contractor](https://jai-jagan-nath-contrector.vercel.app)** | Contractor personal brand: story-driven site, site-visit booking, social media management | `Next.js` `WhatsApp` | [![Live](https://img.shields.io/badge/LIVE-online-22c55e?style=flat-square)](https://jai-jagan-nath-contrector.vercel.app) |
+| 👗 **[Vastraa Royal](https://vastraa-royal.vercel.app)** | Ethnic fashion boutique website | `Next.js` `Vercel` | [![Live](https://img.shields.io/badge/LIVE-online-22c55e?style=flat-square)](https://vastraa-royal.vercel.app) |
 
 ## Stack
 
+*The full kit I use to take a local business from idea to live site.*
+
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=nextjs,ts,vercel,git,github&theme=dark&perline=5)](https://github.com/krma111)
+[![Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,html,css,nodejs,vercel,git,github,vscode,npm,markdown&theme=dark&perline=7)](https://github.com/krma111)
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6) ![AI-Assisted Builds](https://img.shields.io/badge/AI--Assisted_Builds-1F7A8C)
 
 </div>
 
