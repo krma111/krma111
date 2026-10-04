@@ -1,59 +1,77 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=1F7A8C&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+BADAL+DUBEY+%F0%9F%91%8B;AI-learner+%26+vibe+coder;I+ship+live+websites+for+real+businesses)](https://github.com/krma111)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=BADAL%20DUBEY&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-learner%20and%20vibe%20coder%20-%20I%20ship%20live%20websites&descSize=17&descAlignY=58" width="100%"/>
 
-**Customer service, sales & operations — honest, detailed work with dependable team support.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=1F7A8C&center=true&vCenter=true&width=620&lines=Customer+service+%E2%9C%A6+Sales+%E2%9C%A6+Operations;Honest%2C+detailed+work;Dependable+team+support)](https://github.com/krma111)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:CDUBEY159@GMAIL.COM) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919118876154) ![India](https://img.shields.io/badge/India-1F7A8C?logo=googlemaps&logoColor=white) ![Open to freelance](https://img.shields.io/badge/Open_to-freelance-brightgreen)
 
 </div>
 
 ## About me
 
-- AI learner & vibe coder — I turn real business needs into **live Next.js websites**
-- Background: customer service, sales & operations — **Kudu** (Shift Manager, Dammam) · **PVR Cinemas** · **HPCL** · freelance digital visibility
-- Currently learning: AI-assisted development, agentic workflows
-- EN · HI · MR · BH · AR — multicultural floors feel like home
-- Based in India · open to freelance & remote work
+```yaml
+name: BADAL DUBEY
+role: AI-learner & vibe coder
+mission: live Next.js websites for real businesses
+background: [Kudu — Shift Manager, PVR Cinemas, HPCL, freelance digital visibility]
+learning: [AI-assisted development, agentic workflows]
+languages: [EN, HI, MR, BH, AR]
+base: India — open to freelance & remote
+```
 
 ## Live builds
 
-| Website | What it does | Stack |
+| Website | What it does | Link |
 |---|---|---|
-| [Mahalaxmi Beauty Parlour](https://mahalaxmi.beauty) | Salon lead-gen: services, gallery, local SEO, free-callback magnet, one-tap WhatsApp booking | Next.js · WhatsApp |
-| [Suria Integriti](https://suria-pink.vercel.app) | Malaysian cleaning company: quote builder, before/after flow, WhatsApp enquiry routing | Next.js · Vercel |
-| [PromptVault AI](https://promptvault-ai-rho.vercel.app) | Prompt-pack library for vibe coders — fast discovery & reuse | Next.js · Vercel |
-| [SBMC](https://sbmc-one.vercel.app) | Social branding for small businesses: makeovers, Google Business fixes, WhatsApp setups, landing pages | Next.js · WhatsApp |
-| [Jai Jagannath Contractor](https://jai-jagan-nath-contrector.vercel.app) | Contractor personal brand: story-driven site, site-visit booking, social media management | Next.js · WhatsApp |
-| [Vastraa Royal](https://vastraa-royal.vercel.app) | Ethnic fashion boutique website | Next.js · Vercel |
+| **Mahalaxmi Beauty Parlour** | Salon lead-gen: services, gallery, local SEO, free-callback magnet, one-tap WhatsApp booking | [Live](https://mahalaxmi.beauty) |
+| **Suria Integriti** | Malaysian cleaning company: quote builder, before/after flow, WhatsApp enquiry routing | [Live](https://suria-pink.vercel.app) |
+| **PromptVault AI** | Prompt-pack library for vibe coders — fast discovery & reuse | [Live](https://promptvault-ai-rho.vercel.app) |
+| **SBMC** | Social branding for small businesses: makeovers, Google Business fixes, WhatsApp setups, landing pages | [Live](https://sbmc-one.vercel.app) |
+| **Jai Jagannath Contractor** | Contractor personal brand: story-driven site, site-visit booking, social media management | [Live](https://jai-jagan-nath-contrector.vercel.app) |
+| **Vastraa Royal** | Ethnic fashion boutique website | [Live](https://vastraa-royal.vercel.app) |
 
 ## Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
+<div align="center">
 
-## GitHub stats
+[![Skills](https://skillicons.dev/icons?i=nextjs,ts,vercel,git,github&theme=dark&perline=5)](https://github.com/krma111)
 
-![BADAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=krma111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krma111&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-[![Streak](https://streak-stats.demolab.com?user=krma111&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/krma111)
+## Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=krma111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="460" alt="stats"/></td>
+<td><img src="https://streak-stats.demolab.com?user=krma111&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="460" alt="streak"/></td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krma111&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="langs"/>
 
 [![Contribution chart](https://ghchart.rshah.org/krma111)](https://github.com/krma111)
 
+</div>
+
 ## Service laws
 
-1. **Greet fast, listen fully, solve on the spot** — then record it cleanly.
-2. **Process accurately, upsell honestly** — keep the queue moving and the cash tally exact.
-3. **Inventory, safety and paperwork done daily** — no backlog, no surprises.
+1. Greet fast, listen fully, solve on the spot — then record it cleanly.
+2. Process accurately, upsell honestly — keep the queue moving and the cash tally exact.
+3. Inventory, safety and paperwork done daily — no backlog, no surprises.
 
 ## Contact
 
 - Email: [CDUBEY159@GMAIL.COM](mailto:CDUBEY159@GMAIL.COM)
 - WhatsApp: [+91 9118876154](https://wa.me/919118876154)
 - Based in India · EN / HI / MR / BH / AR
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
+
+</div>
