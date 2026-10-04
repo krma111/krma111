@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=BADAL%20DUBEY&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-learner%20and%20vibe%20coder%20-%20I%20ship%20live%20websites&descSize=17&descAlignY=58" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=1F7A8C&center=true&vCenter=true&width=620&lines=Customer+service+%E2%9C%A6+Sales+%E2%9C%A6+Operations;Honest%2C+detailed+work;Dependable+team+support)](https://github.com/krma111)
+[![Headline](https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=38&duration=3500&pause=2500&color=0E7490&center=true&vCenter=true&width=800&height=110&lines=AI+learner+%26+vibe+coder%2C;building+what+business+really+means.)](https://github.com/krma111)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:CDUBEY159@GMAIL.COM) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919118876154) ![India](https://img.shields.io/badge/India-1F7A8C?logo=googlemaps&logoColor=white) ![Open to freelance](https://img.shields.io/badge/Open_to-freelance-brightgreen)
 
